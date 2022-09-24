@@ -1,2 +1,2 @@
 # Mandelbrot
-![](.\Mandelbrot\mandelbrot.bmp)
+![](..\Mandelbrot\mandelbrot.bmp)
